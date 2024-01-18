@@ -1,8 +1,9 @@
 ### Gunjyo 👋
-Hi, I'm gunjyo, a freshman at NTHU majoring in Computer Science. <br/>
+Hi, I'm gunjyo, a sophomore at NTHU majoring in Computer Science. <br/>
+<!--
 ![Gunjyo's github stats](https://github-readme-stats.vercel.app/api?username=gunjyo0817&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjyo0817&layout=compact&theme=vue-dark)
-<!--
+
 **gunjyo0817/gunjyo0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

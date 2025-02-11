@@ -1,5 +1,5 @@
-### Gunjyo 👋
-Hi, I'm gunjyo, a sophomore at NTHU majoring in Computer Science. <br/>
+### Yichen 👋
+Hi, I'm yichen, a junior at NTHU majoring in Computer Science. <br/>
 <!--
 ![Gunjyo's github stats](https://github-readme-stats.vercel.app/api?username=gunjyo0817&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjyo0817&layout=compact&theme=vue-dark)
